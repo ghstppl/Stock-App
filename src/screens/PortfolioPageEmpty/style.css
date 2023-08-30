@@ -1,0 +1,271 @@
+.portfolio-page-empty {
+  background-color: #82d8e3;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.portfolio-page-empty .overlap-wrapper {
+  background-color: #82d8e3;
+  height: 963px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.portfolio-page-empty .overlap {
+  height: 963px;
+  left: -2px;
+  position: relative;
+  width: 1929px;
+}
+
+.portfolio-page-empty .logo {
+  height: 963px;
+  left: 561px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1177px;
+}
+
+.portfolio-page-empty .empty-portfolio {
+  height: 519px;
+  left: 436px;
+  position: absolute;
+  top: 150px;
+  width: 1272px;
+}
+
+.portfolio-page-empty .text-wrapper {
+  color: #05233f;
+  font-family: "Almarai", Helvetica;
+  font-size: 45px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.portfolio-page-empty .div {
+  color: #05233f75;
+  font-family: "Almarai", Helvetica;
+  font-size: 90px;
+  font-weight: 700;
+  left: 242px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 377px;
+  white-space: nowrap;
+}
+
+.portfolio-page-empty .p {
+  color: #05233fc7;
+  font-family: "Almarai", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  left: 274px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 486px;
+  width: 992px;
+}
+
+.portfolio-page-empty .sidebar {
+  height: 963px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 424px;
+}
+
+.portfolio-page-empty .overlap-group {
+  height: 963px;
+  position: relative;
+  width: 416px;
+}
+
+.portfolio-page-empty .rectangle {
+  background-color: #05233f;
+  height: 963px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 414px;
+}
+
+.portfolio-page-empty .img {
+  height: 66px;
+  left: 32px;
+  object-fit: cover;
+  position: absolute;
+  top: 41px;
+  width: 54px;
+}
+
+.portfolio-page-empty .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Myanmar Khyay-Regular", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 103px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 55px;
+  width: 248px;
+}
+
+.portfolio-page-empty .rectangle-2 {
+  background-color: #ffffff;
+  border-radius: 5px;
+  height: 65px;
+  left: 0;
+  opacity: 0.2;
+  position: absolute;
+  top: 322px;
+  width: 414px;
+}
+
+.portfolio-page-empty .rectangle-3 {
+  background-color: #13adc0;
+  border-radius: 5px;
+  height: 65px;
+  left: 2px;
+  opacity: 0.2;
+  position: absolute;
+  top: 236px;
+  width: 414px;
+}
+
+.portfolio-page-empty .rectangle-4 {
+  background-color: #13adc0;
+  border-radius: 5px;
+  height: 65px;
+  left: 0;
+  opacity: 0.2;
+  position: absolute;
+  top: 151px;
+  width: 414px;
+}
+
+.portfolio-page-empty .text-wrapper-3 {
+  color: #8eecf7;
+  font-family: "Almarai", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 94px;
+  letter-spacing: 0;
+  line-height: normal;
+  opacity: 0.5;
+  position: absolute;
+  top: 161px;
+  white-space: nowrap;
+  width: 169px;
+}
+
+.portfolio-page-empty .text-wrapper-4 {
+  color: #8eecf7;
+  font-family: "Almarai", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 96px;
+  letter-spacing: 0;
+  line-height: normal;
+  opacity: 0.5;
+  position: absolute;
+  top: 250px;
+  white-space: nowrap;
+  width: 106px;
+}
+
+.portfolio-page-empty .text-wrapper-5 {
+  color: #ffffff;
+  font-family: "Almarai", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 96px;
+  letter-spacing: 0;
+  line-height: normal;
+  opacity: 0.5;
+  position: absolute;
+  top: 338px;
+  white-space: nowrap;
+  width: 127px;
+}
+
+.portfolio-page-empty .line {
+  height: 65px;
+  left: 2px;
+  position: absolute;
+  top: 322px;
+  width: 9px;
+}
+
+.portfolio-page-empty .search-bar {
+  height: 81px;
+  left: 416px;
+  position: absolute;
+  top: 50px;
+  width: 1513px;
+}
+
+.portfolio-page-empty .overlap-2 {
+  background-color: #1a636c99;
+  border-radius: 12px;
+  height: 42px;
+  left: 427px;
+  position: absolute;
+  top: 0;
+  width: 614px;
+}
+
+.portfolio-page-empty .text-wrapper-6 {
+  color: #ffffff;
+  font-family: var(--font-font-family);
+  font-size: var(--font-font-size);
+  font-style: var(--font-font-style);
+  font-weight: var(--font-font-weight);
+  left: 54px;
+  letter-spacing: var(--font-letter-spacing);
+  line-height: var(--font-line-height);
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.portfolio-page-empty .search {
+  height: 25px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 24px;
+}
+
+.portfolio-page-empty .text-wrapper-7 {
+  color: #05233f;
+  font-family: "Almarai", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 1269px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 5px;
+  white-space: nowrap;
+}
+
+.portfolio-page-empty .line-2 {
+  height: 4px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 77px;
+  width: 1506px;
+}

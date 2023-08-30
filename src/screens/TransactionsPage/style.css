@@ -1,0 +1,502 @@
+.transactions-page {
+  background-color: #82d8e3;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.transactions-page .overlap-wrapper {
+  background-color: #82d8e3;
+  height: 963px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.transactions-page .overlap {
+  height: 963px;
+  left: -2px;
+  position: relative;
+  width: 1944px;
+}
+
+.transactions-page .logo {
+  height: 963px;
+  left: 520px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1258px;
+}
+
+.transactions-page .transactions-data {
+  height: 159px;
+  left: 414px;
+  position: absolute;
+  top: 287px;
+  width: 1530px;
+}
+
+.transactions-page .line {
+  height: 6px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 153px;
+  width: 1505px;
+}
+
+.transactions-page .text-wrapper {
+  color: #05233f;
+  font-family: "Almarai", Helvetica;
+  font-size: 25px;
+  font-weight: 700;
+  left: 430px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 96px;
+  white-space: nowrap;
+}
+
+.transactions-page .div {
+  color: #05233f;
+  font-family: "Almarai", Helvetica;
+  font-size: 25px;
+  font-weight: 700;
+  left: 244px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 98px;
+  white-space: nowrap;
+}
+
+.transactions-page .text-wrapper-2 {
+  color: #00000070;
+  font-family: "Almarai", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 80px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 117px;
+  white-space: nowrap;
+}
+
+.transactions-page .text-wrapper-3 {
+  color: #000000;
+  font-family: "Almarai", Helvetica;
+  font-size: 25px;
+  font-weight: 700;
+  left: 80px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 88px;
+  white-space: nowrap;
+}
+
+.transactions-page .img {
+  height: 6px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 65px;
+  width: 1505px;
+}
+
+.transactions-page .text-wrapper-4 {
+  color: #05233f;
+  font-family: "Almarai", Helvetica;
+  font-size: 25px;
+  font-weight: 700;
+  left: 429px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.transactions-page .text-wrapper-5 {
+  color: #05233f;
+  font-family: "Almarai", Helvetica;
+  font-size: 25px;
+  font-weight: 700;
+  left: 243px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.transactions-page .text-wrapper-6 {
+  color: #00000070;
+  font-family: "Almarai", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 79px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 29px;
+  white-space: nowrap;
+}
+
+.transactions-page .text-wrapper-7 {
+  color: #000000;
+  font-family: "Almarai", Helvetica;
+  font-size: 25px;
+  font-weight: 700;
+  left: 79px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.transactions-page .overlap-group {
+  background-image: url(../../../static/img/rectangle-46.svg);
+  background-size: 100% 100%;
+  height: 43px;
+  left: 1365px;
+  position: absolute;
+  top: 94px;
+  width: 112px;
+}
+
+.transactions-page .text-wrapper-8 {
+  color: #ffffff;
+  font-family: "Almarai", Helvetica;
+  font-size: 25px;
+  font-weight: 700;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+}
+
+.transactions-page .div-wrapper {
+  background-image: url(../../../static/img/rectangle-46.svg);
+  background-size: 100% 100%;
+  height: 43px;
+  left: 1364px;
+  position: absolute;
+  top: 6px;
+  width: 112px;
+}
+
+.transactions-page .overlap-2 {
+  background-color: #1a636c99;
+  border-radius: 12px;
+  height: 33px;
+  left: 631px;
+  position: absolute;
+  top: 94px;
+  width: 131px;
+}
+
+.transactions-page .text-wrapper-9 {
+  color: #ffffff;
+  font-family: "Almarai", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 5px;
+  white-space: nowrap;
+}
+
+.transactions-page .overlap-3 {
+  background-color: #1a636c99;
+  border-radius: 12px;
+  height: 33px;
+  left: 630px;
+  position: absolute;
+  top: 6px;
+  width: 131px;
+}
+
+.transactions-page .transactions {
+  height: 143px;
+  left: 416px;
+  position: absolute;
+  top: 128px;
+  width: 1519px;
+}
+
+.transactions-page .line-2 {
+  height: 6px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 137px;
+  width: 1505px;
+}
+
+.transactions-page .text-wrapper-10 {
+  color: #00000070;
+  font-family: "Almarai", Helvetica;
+  font-size: 25px;
+  font-weight: 700;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 98px;
+  width: 132px;
+}
+
+.transactions-page .text-wrapper-11 {
+  color: #00000070;
+  font-family: "Almarai", Helvetica;
+  font-size: 25px;
+  font-weight: 700;
+  left: 246px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 97px;
+  white-space: nowrap;
+}
+
+.transactions-page .text-wrapper-12 {
+  color: #00000070;
+  font-family: "Almarai", Helvetica;
+  font-size: 25px;
+  font-weight: 700;
+  left: 440px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 98px;
+  white-space: nowrap;
+}
+
+.transactions-page .text-wrapper-13 {
+  color: #00000070;
+  font-family: "Almarai", Helvetica;
+  font-size: 25px;
+  font-weight: 700;
+  left: 655px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 98px;
+  white-space: nowrap;
+}
+
+.transactions-page .line-3 {
+  height: 4px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: 1506px;
+}
+
+.transactions-page .text-wrapper-14 {
+  color: #05233f;
+  font-family: "Almarai", Helvetica;
+  font-size: 45px;
+  font-weight: 700;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.transactions-page .side-bar {
+  height: 963px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 422px;
+}
+
+.transactions-page .overlap-4 {
+  height: 963px;
+  position: relative;
+  width: 416px;
+}
+
+.transactions-page .rectangle {
+  background-color: #05233f;
+  height: 963px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 414px;
+}
+
+.transactions-page .logo-2 {
+  height: 66px;
+  left: 32px;
+  object-fit: cover;
+  position: absolute;
+  top: 41px;
+  width: 54px;
+}
+
+.transactions-page .text-wrapper-15 {
+  color: #ffffff;
+  font-family: "Myanmar Khyay-Regular", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 103px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 55px;
+}
+
+.transactions-page .rectangle-2 {
+  background-color: #13adc0;
+  border-radius: 5px;
+  height: 65px;
+  left: 2px;
+  opacity: 0.2;
+  position: absolute;
+  top: 237px;
+  width: 414px;
+}
+
+.transactions-page .rectangle-3 {
+  background-color: #ffffff;
+  border-radius: 5px;
+  height: 65px;
+  left: 0;
+  opacity: 0.2;
+  position: absolute;
+  top: 151px;
+  width: 414px;
+}
+
+.transactions-page .text-wrapper-16 {
+  color: #ffffff;
+  font-family: "Almarai", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 94px;
+  letter-spacing: 0;
+  line-height: normal;
+  opacity: 0.5;
+  position: absolute;
+  top: 161px;
+  white-space: nowrap;
+}
+
+.transactions-page .text-wrapper-17 {
+  color: #8eecf7;
+  font-family: "Almarai", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 94px;
+  letter-spacing: 0;
+  line-height: normal;
+  opacity: 0.5;
+  position: absolute;
+  top: 250px;
+  white-space: nowrap;
+}
+
+.transactions-page .line-4 {
+  height: 65px;
+  left: 2px;
+  position: absolute;
+  top: 151px;
+  width: 9px;
+}
+
+.transactions-page .group {
+  height: 42px;
+  left: 843px;
+  position: absolute;
+  top: 50px;
+  width: 1051px;
+}
+
+.transactions-page .overlap-5 {
+  background-color: #1a636c99;
+  border-radius: 12px;
+  height: 42px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 614px;
+}
+
+.transactions-page .text-wrapper-18 {
+  color: #ffffff;
+  font-family: var(--font-font-family);
+  font-size: var(--font-font-size);
+  font-style: var(--font-font-style);
+  font-weight: var(--font-font-weight);
+  left: 54px;
+  letter-spacing: var(--font-letter-spacing);
+  line-height: var(--font-line-height);
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.transactions-page .search {
+  height: 25px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 24px;
+}
+
+.transactions-page .text-wrapper-19 {
+  color: #05233f;
+  font-family: "Almarai", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 842px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 5px;
+  white-space: nowrap;
+}
+
+.transactions-page .log-out {
+  height: 47px;
+  left: 95px;
+  position: absolute;
+  top: 878px;
+  width: 198px;
+}
+
+.transactions-page .overlap-6 {
+  background-image: url(../../../static/img/rectangle-39.svg);
+  background-size: 100% 100%;
+  height: 47px;
+  position: relative;
+  width: 196px;
+}
+
+.transactions-page .text-wrapper-20 {
+  color: #000000;
+  font-family: "Almarai", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  left: 45px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+}

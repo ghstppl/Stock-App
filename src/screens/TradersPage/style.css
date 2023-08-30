@@ -1,0 +1,681 @@
+.traders-page {
+  background-color: #82d8e3;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.traders-page .overlap-wrapper {
+  background-color: #82d8e3;
+  height: 963px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.traders-page .overlap {
+  height: 963px;
+  left: -2px;
+  position: relative;
+  width: 1953px;
+}
+
+.traders-page .logo {
+  height: 963px;
+  left: 549px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1203px;
+}
+
+.traders-page .traders-data {
+  height: 108px;
+  left: 414px;
+  position: absolute;
+  top: 281px;
+  width: 1539px;
+}
+
+.traders-page .line {
+  height: 6px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 102px;
+  width: 1505px;
+}
+
+.traders-page .text-wrapper {
+  color: #000000;
+  font-family: "Almarai", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 1384px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 65px;
+  white-space: nowrap;
+}
+
+.traders-page .div {
+  color: #000000;
+  font-family: "Almarai", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 1190px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 65px;
+  white-space: nowrap;
+}
+
+.traders-page .text-wrapper-2 {
+  color: #000000;
+  font-family: "Almarai", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 624px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 65px;
+  white-space: nowrap;
+}
+
+.traders-page .text-wrapper-3 {
+  color: #000000;
+  font-family: "Almarai", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 624px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.traders-page .text-wrapper-4 {
+  color: #000000;
+  font-family: "Almarai", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 983px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 65px;
+  white-space: nowrap;
+}
+
+.traders-page .text-wrapper-5 {
+  color: #000000;
+  font-family: "Almarai", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 466px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 65px;
+  white-space: nowrap;
+}
+
+.traders-page .text-wrapper-6 {
+  color: #000000;
+  font-family: "Almarai", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 265px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 65px;
+  white-space: nowrap;
+}
+
+.traders-page .text-wrapper-7 {
+  color: #000000;
+  font-family: "Almarai", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 65px;
+  white-space: nowrap;
+}
+
+.traders-page .img {
+  height: 6px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 41px;
+  width: 1505px;
+}
+
+.traders-page .text-wrapper-8 {
+  color: #000000;
+  font-family: "Almarai", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 1382px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.traders-page .text-wrapper-9 {
+  color: #000000;
+  font-family: "Almarai", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 1188px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.traders-page .text-wrapper-10 {
+  color: #000000;
+  font-family: "Almarai", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 994px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.traders-page .text-wrapper-11 {
+  color: #000000;
+  font-family: "Almarai", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 449px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.traders-page .text-wrapper-12 {
+  color: #000000;
+  font-family: "Almarai", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 263px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.traders-page .text-wrapper-13 {
+  color: #000000;
+  font-family: "Almarai", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.traders-page .overlap-group {
+  background-color: #1a636c99;
+  border-radius: 12px;
+  height: 29px;
+  left: 765px;
+  position: absolute;
+  top: 61px;
+  width: 152px;
+}
+
+.traders-page .text-wrapper-14 {
+  color: #ffffff;
+  font-family: "Almarai", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3px;
+  white-space: nowrap;
+}
+
+.traders-page .div-wrapper {
+  background-color: #1a636c99;
+  border-radius: 12px;
+  height: 29px;
+  left: 763px;
+  position: absolute;
+  top: 0;
+  width: 152px;
+}
+
+.traders-page .text-wrapper-15 {
+  color: #ffffff;
+  font-family: "Almarai", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3px;
+  white-space: nowrap;
+}
+
+.traders-page .all-traders {
+  height: 143px;
+  left: 416px;
+  position: absolute;
+  top: 128px;
+  width: 1533px;
+}
+
+.traders-page .line-2 {
+  height: 6px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 137px;
+  width: 1505px;
+}
+
+.traders-page .text-wrapper-16 {
+  color: #00000070;
+  font-family: "Almarai", Helvetica;
+  font-size: 25px;
+  font-weight: 700;
+  left: 1364px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 98px;
+  white-space: nowrap;
+}
+
+.traders-page .text-wrapper-17 {
+  color: #00000070;
+  font-family: "Almarai", Helvetica;
+  font-size: 25px;
+  font-weight: 700;
+  left: 1155px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 99px;
+  white-space: nowrap;
+}
+
+.traders-page .text-wrapper-18 {
+  color: #00000070;
+  font-family: "Almarai", Helvetica;
+  font-size: 25px;
+  font-weight: 700;
+  left: 980px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 99px;
+  white-space: nowrap;
+}
+
+.traders-page .text-wrapper-19 {
+  color: #00000070;
+  font-family: "Almarai", Helvetica;
+  font-size: 25px;
+  font-weight: 700;
+  left: 752px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 99px;
+  white-space: nowrap;
+}
+
+.traders-page .text-wrapper-20 {
+  color: #00000070;
+  font-family: "Almarai", Helvetica;
+  font-size: 25px;
+  font-weight: 700;
+  left: 622px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 99px;
+  white-space: nowrap;
+}
+
+.traders-page .text-wrapper-21 {
+  color: #00000070;
+  font-family: "Almarai", Helvetica;
+  font-size: 25px;
+  font-weight: 700;
+  left: 430px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 98px;
+  white-space: nowrap;
+}
+
+.traders-page .text-wrapper-22 {
+  color: #00000070;
+  font-family: "Almarai", Helvetica;
+  font-size: 25px;
+  font-weight: 700;
+  left: 235px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 99px;
+  white-space: nowrap;
+}
+
+.traders-page .text-wrapper-23 {
+  color: #00000070;
+  font-family: "Almarai", Helvetica;
+  font-size: 25px;
+  font-weight: 700;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 98px;
+  width: 132px;
+}
+
+.traders-page .text-wrapper-24 {
+  color: #05233f;
+  font-family: "Almarai", Helvetica;
+  font-size: 45px;
+  font-weight: 700;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.traders-page .overlap-2 {
+  background-color: #005d69;
+  border-radius: 12px;
+  height: 45px;
+  left: 1334px;
+  position: absolute;
+  top: 21px;
+  width: 147px;
+}
+
+.traders-page .text-wrapper-25 {
+  color: #ffffff;
+  font-family: "Almarai", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  left: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 5px;
+  white-space: nowrap;
+}
+
+.traders-page .ALL-PENDING-wrapper {
+  background-color: #005d69;
+  border-radius: 12px;
+  height: 45px;
+  left: 1159px;
+  position: absolute;
+  top: 21px;
+  width: 147px;
+}
+
+.traders-page .ALL-PENDING {
+  color: #ffffff;
+  font-family: "Almarai", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 37px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+}
+
+.traders-page .ALL-TRADERS-wrapper {
+  background-color: #005d69;
+  border-radius: 12px;
+  height: 45px;
+  left: 986px;
+  position: absolute;
+  top: 21px;
+  width: 147px;
+}
+
+.traders-page .ALL-TRADERS {
+  color: #ffffff;
+  font-family: "Almarai", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+}
+
+.traders-page .line-3 {
+  height: 4px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: 1506px;
+}
+
+.traders-page .sidebar {
+  height: 963px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 422px;
+}
+
+.traders-page .overlap-3 {
+  height: 963px;
+  position: relative;
+  width: 416px;
+}
+
+.traders-page .rectangle {
+  background-color: #05233f;
+  height: 963px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 414px;
+}
+
+.traders-page .logo-2 {
+  height: 66px;
+  left: 32px;
+  object-fit: cover;
+  position: absolute;
+  top: 41px;
+  width: 54px;
+}
+
+.traders-page .text-wrapper-26 {
+  color: #ffffff;
+  font-family: "Myanmar Khyay-Regular", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 103px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 55px;
+}
+
+.traders-page .rectangle-2 {
+  background-color: #ffffff;
+  border-radius: 5px;
+  height: 65px;
+  left: 2px;
+  opacity: 0.2;
+  position: absolute;
+  top: 237px;
+  width: 414px;
+}
+
+.traders-page .rectangle-3 {
+  background-color: #13adc0;
+  border-radius: 5px;
+  height: 65px;
+  left: 0;
+  opacity: 0.2;
+  position: absolute;
+  top: 151px;
+  width: 414px;
+}
+
+.traders-page .text-wrapper-27 {
+  color: #8eecf7;
+  font-family: "Almarai", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 91px;
+  letter-spacing: 0;
+  line-height: normal;
+  opacity: 0.5;
+  position: absolute;
+  top: 161px;
+  white-space: nowrap;
+}
+
+.traders-page .text-wrapper-28 {
+  color: #ffffff;
+  font-family: "Almarai", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 91px;
+  letter-spacing: 0;
+  line-height: normal;
+  opacity: 0.5;
+  position: absolute;
+  top: 250px;
+  white-space: nowrap;
+}
+
+.traders-page .line-4 {
+  height: 65px;
+  left: 2px;
+  position: absolute;
+  top: 237px;
+  width: 9px;
+}
+
+.traders-page .searchbar {
+  height: 42px;
+  left: 843px;
+  position: absolute;
+  top: 50px;
+  width: 1051px;
+}
+
+.traders-page .overlap-4 {
+  background-color: #1a636c99;
+  border-radius: 12px;
+  height: 42px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 614px;
+}
+
+.traders-page .text-wrapper-29 {
+  color: #ffffff;
+  font-family: var(--font-font-family);
+  font-size: var(--font-font-size);
+  font-style: var(--font-font-style);
+  font-weight: var(--font-font-weight);
+  left: 54px;
+  letter-spacing: var(--font-letter-spacing);
+  line-height: var(--font-line-height);
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.traders-page .search {
+  height: 25px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 24px;
+}
+
+.traders-page .text-wrapper-30 {
+  color: #05233f;
+  font-family: "Almarai", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 842px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 5px;
+  white-space: nowrap;
+}
+
+.traders-page .log-out {
+  height: 47px;
+  left: 95px;
+  position: absolute;
+  top: 878px;
+  width: 198px;
+}
+
+.traders-page .overlap-5 {
+  background-image: url(../../../static/img/rectangle-48.svg);
+  background-size: 100% 100%;
+  height: 47px;
+  position: relative;
+  width: 196px;
+}
+
+.traders-page .text-wrapper-31 {
+  color: #000000;
+  font-family: "Almarai", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  left: 45px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+}

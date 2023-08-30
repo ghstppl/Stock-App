@@ -1,0 +1,494 @@
+.modal {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.modal .div {
+  background-color: #ffffff;
+  height: 1024px;
+  position: relative;
+  width: 1920px;
+}
+
+.modal .cancel-stock {
+  height: 395px;
+  left: 685px;
+  position: absolute;
+  top: 71px;
+  width: 550px;
+}
+
+.modal .cancel-order {
+  height: 395px;
+  width: 560px;
+}
+
+.modal .overlap-group {
+  background-color: #05233f;
+  border-radius: 45px;
+  height: 395px;
+  position: relative;
+  width: 550px;
+}
+
+.modal .overlap {
+  background-color: #005d69;
+  border-radius: 12px;
+  height: 50px;
+  left: 185px;
+  position: absolute;
+  top: 314px;
+  width: 207px;
+}
+
+.modal .text-wrapper {
+  color: #ffffff;
+  font-family: "Almarai", Helvetica;
+  font-size: 38px;
+  font-weight: 700;
+  left: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.modal .overlap-2 {
+  height: 56px;
+  left: 122px;
+  position: absolute;
+  top: 185px;
+  width: 320px;
+}
+
+.modal .rectangle {
+  background-color: #005d69;
+  border-radius: 12px;
+  height: 55px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.modal .line {
+  height: 47px;
+  left: 272px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 1px;
+}
+
+.modal .img {
+  height: 47px;
+  left: 60px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 1px;
+}
+
+.modal .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Almarai", Helvetica;
+  font-size: 40px;
+  font-weight: 700;
+  left: 77px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.modal .icon-plus {
+  height: 43px;
+  left: 279px;
+  position: absolute;
+  top: 8px;
+  width: 38px;
+}
+
+.modal .icon-minus-outline {
+  height: 53px;
+  left: 10px;
+  position: absolute;
+  top: 3px;
+  width: 45px;
+}
+
+.modal .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Almarai", Helvetica;
+  font-size: 25px;
+  font-weight: 700;
+  left: 235px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 248px;
+  white-space: nowrap;
+}
+
+.modal .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "Almarai", Helvetica;
+  font-size: 40px;
+  font-weight: 700;
+  left: 37px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 102px;
+  width: 177px;
+}
+
+.modal .text-wrapper-5 {
+  color: #ffffff;
+  font-family: "Almarai", Helvetica;
+  font-size: 40px;
+  font-weight: 700;
+  left: 154px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 21px;
+  white-space: nowrap;
+}
+
+.modal .icon-close-outline {
+  height: 43px;
+  left: 491px;
+  position: absolute;
+  top: 12px;
+  width: 43px;
+}
+
+.modal .modal-sell-stock {
+  height: 395px;
+  left: 1291px;
+  position: absolute;
+  top: 539px;
+  width: 550px;
+}
+
+.modal .overlap-group-wrapper {
+  height: 395px;
+  width: 562px;
+}
+
+.modal .overlap-3 {
+  background-color: #1a636c99;
+  border-radius: 12px;
+  height: 52px;
+  left: 141px;
+  position: absolute;
+  top: 30px;
+  width: 268px;
+}
+
+.modal .div-wrapper {
+  background-color: #005d69;
+  border-radius: 12px;
+  height: 52px;
+  left: 129px;
+  position: absolute;
+  top: 0;
+  width: 139px;
+}
+
+.modal .text-wrapper-6 {
+  color: #ffffff;
+  font-family: "Almarai", Helvetica;
+  font-size: 25px;
+  font-weight: 700;
+  left: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+}
+
+.modal .text-wrapper-7 {
+  color: #ffffff;
+  font-family: "Almarai", Helvetica;
+  font-size: 25px;
+  font-weight: 700;
+  left: 34px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+}
+
+.modal .overlap-4 {
+  background-color: #005d69;
+  border-radius: 12px;
+  height: 50px;
+  left: 190px;
+  position: absolute;
+  top: 316px;
+  width: 207px;
+}
+
+.modal .text-wrapper-8 {
+  color: #ffffff;
+  font-family: "Almarai", Helvetica;
+  font-size: 38px;
+  font-weight: 700;
+  left: 62px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 5px;
+  white-space: nowrap;
+}
+
+.modal .text-wrapper-9 {
+  color: #ffffff;
+  font-family: "Almarai", Helvetica;
+  font-size: 25px;
+  font-weight: 700;
+  left: 240px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 250px;
+  white-space: nowrap;
+}
+
+.modal .overlap-5 {
+  background-color: #005d69;
+  border-radius: 12px;
+  height: 55px;
+  left: 127px;
+  position: absolute;
+  top: 187px;
+  width: 320px;
+}
+
+.modal .line-2 {
+  height: 47px;
+  left: 55px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.modal .line-3 {
+  height: 47px;
+  left: 267px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.modal .icon-plus-2 {
+  height: 43px;
+  left: 274px;
+  position: absolute;
+  top: 6px;
+  width: 38px;
+}
+
+.modal .icon-minus-outline-2 {
+  height: 53px;
+  left: 5px;
+  position: absolute;
+  top: 1px;
+  width: 45px;
+}
+
+.modal .text-wrapper-10 {
+  color: #ffffff;
+  font-family: "Almarai", Helvetica;
+  font-size: 40px;
+  font-weight: 700;
+  left: 53px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 115px;
+  width: 177px;
+}
+
+.modal .icon-close-outline-2 {
+  height: 43px;
+  left: 494px;
+  position: absolute;
+  top: 12px;
+  width: 43px;
+}
+
+.modal .modal-buy-stock {
+  height: 395px;
+  left: 1291px;
+  position: absolute;
+  top: 75px;
+  width: 550px;
+}
+
+.modal .text-wrapper-11 {
+  color: #ffffff;
+  font-family: "Almarai", Helvetica;
+  font-size: 40px;
+  font-weight: 700;
+  left: 62px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 5px;
+  white-space: nowrap;
+}
+
+.modal .overlap-6 {
+  background-color: #005d69;
+  border-radius: 12px;
+  height: 52px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 139px;
+}
+
+.modal .text-wrapper-12 {
+  color: #ffffff;
+  font-family: "Almarai", Helvetica;
+  font-size: 25px;
+  font-weight: 700;
+  left: 169px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+}
+
+.modal .text-wrapper-13 {
+  color: #ffffff;
+  font-family: "Almarai", Helvetica;
+  font-size: 40px;
+  font-weight: 700;
+  left: 38px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 108px;
+  width: 177px;
+}
+
+.modal .modal-create-trader {
+  height: 470px;
+  left: 63px;
+  position: absolute;
+  top: 266px;
+  width: 550px;
+}
+
+.modal .create-trader {
+  height: 470px;
+  width: 554px;
+}
+
+.modal .overlap-group-2 {
+  background-color: #05233f;
+  border-radius: 45px;
+  height: 470px;
+  position: relative;
+  width: 550px;
+}
+
+.modal .overlap-7 {
+  background-color: #005d69;
+  border-radius: 12px;
+  height: 50px;
+  left: 171px;
+  position: absolute;
+  top: 397px;
+  width: 207px;
+}
+
+.modal .text-wrapper-14 {
+  color: #ffffff;
+  font-family: "Almarai", Helvetica;
+  font-size: 38px;
+  font-weight: 700;
+  left: 27px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.modal .rectangle-2 {
+  background-color: #005d69;
+  border-radius: 12px;
+  height: 36px;
+  left: 150px;
+  position: absolute;
+  top: 326px;
+  width: 250px;
+}
+
+.modal .rectangle-3 {
+  background-color: #005d69;
+  border-radius: 12px;
+  height: 36px;
+  left: 150px;
+  position: absolute;
+  top: 271px;
+  width: 250px;
+}
+
+.modal .rectangle-4 {
+  background-color: #005d69;
+  border-radius: 12px;
+  height: 36px;
+  left: 150px;
+  position: absolute;
+  top: 216px;
+  width: 250px;
+}
+
+.modal .rectangle-5 {
+  background-color: #005d69;
+  border-radius: 12px;
+  height: 36px;
+  left: 150px;
+  position: absolute;
+  top: 161px;
+  width: 250px;
+}
+
+.modal .rectangle-6 {
+  background-color: #005d69;
+  border-radius: 12px;
+  height: 36px;
+  left: 150px;
+  position: absolute;
+  top: 106px;
+  width: 250px;
+}
+
+.modal .text-wrapper-15 {
+  color: #ffffff;
+  font-family: "Almarai", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  left: 179px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 29px;
+  white-space: nowrap;
+}
